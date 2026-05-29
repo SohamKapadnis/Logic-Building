@@ -1,5 +1,6 @@
 //Write a program which accept distance in kilometre and conert it into meter
 //(1 kilometre = 1000 metre )
+
 // Input : 5
 // Output : 5000
 
