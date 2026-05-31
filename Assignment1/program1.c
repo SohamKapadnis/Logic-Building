@@ -1,3 +1,4 @@
+//Program to divide two number
 #include<stdio.h>
 
 int Divide(int iNo1,int iNo2)
@@ -14,6 +15,7 @@ int Divide(int iNo1,int iNo2)
 
 int main()
 {
+
     int iValue1 = 15, iValue2 = 5;
     int iRet = 0;
 
