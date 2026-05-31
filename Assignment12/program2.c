@@ -4,7 +4,7 @@
 // Output : There is not zero
 
 // Input : -1018
-// Output : It contains Zero                     
+// Output : It contains Zero//              
 
 #include<stdio.h>
 
